@@ -1,1 +1,11 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+**Programming Skills**
+* Java
+* HTML
+* CSS
+* C+ _(only used in Unity 3D application)_
+
+**Art Skills**
+* Pencil
+* Oil Pastel *certificate acquired in Japan*
+
